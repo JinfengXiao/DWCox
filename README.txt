@@ -9,7 +9,7 @@ How to run WeDCox:
 
 Simply execute run.sh.
 
-WeDCox is ready to run right after being downloaded. The required data files have been simulated and put in data/. The outputs are data/pred_risk.csv and data/pred_days.csv. You can replace data/train.csv and data/task.csv with your own data files to let WeDCox do your jobs.
+WeDCox is ready to run right after being downloaded. The required data files have been simulated and put in data/. The outputs will be data/pred_risk.csv and data/pred_days.csv. You can replace data/train.csv and data/task.csv with your own data files to let WeDCox do your jobs.
 
 -----------------------------------------------------------------
 
