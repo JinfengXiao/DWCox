@@ -1,5 +1,5 @@
 # DWCox
-A Density-Weighted Cox Model for Outlier-Robust Prediction of Prostate Cancer Survival
+A **Density-Weighted Cox** Model for **Outlier-Robust** Prediction of Prostate Cancer Survival
 
 This package, DWCox, is a density-weighted Cox method that is more robust against outliers in the training data and thus gives better predictions than the original Cox, especially in cases where the training data are expected to contain a lot of outliers. More details can be found in our manuscript (under preparation).
 
@@ -18,7 +18,7 @@ DWCox is ready to run right after being downloaded. The required data files have
 
 -----------------------------------------------------------------
 
-## Functionality:
+## Functionality
 
 DWCox was originally developed to predict the risk scores and expected survival time in days of prostate cancer patients from their clinical records at the beginning of their trails. Fortunately, since the pipeline of DWCox is completely automatic, you can easily apply it directly to other survival analysis problems, as long as you prepare your input data with the correct formatting.
 
